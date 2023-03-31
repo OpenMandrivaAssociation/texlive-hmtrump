@@ -1,6 +1,6 @@
 Name:		texlive-hmtrump
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Describe card games
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hmtrump
